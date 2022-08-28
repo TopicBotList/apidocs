@@ -61,7 +61,7 @@ import Callout from 'nextra-theme-docs/callout'
 "support":"https://topiclist.xyz/dc",
 "github":"None",
 "banner":"https://i.imgur.com/lNdMzuW.png",
-"invite":"https://discord.com/api/oauth2/authorize?client_id=765088908773818378&permissions=402517239&redirect_uri=https%3A%2F%2Fapi.striderbot.net%2Ffrom_discord&response_type=code&scope=bot%20applications.commands%20applications.commands.update"
+"invite":"https://discord.com/api/oauth2/authorize?client_id=925740376948609034&permissions=402517239&redirect_uri=https%3A%2F%2Fapi.striderbot.net%2Ffrom_discord&response_type=code&scope=bot%20applications.commands%20applications.commands.update"
  }
 }
 
