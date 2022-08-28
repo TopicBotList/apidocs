@@ -7,7 +7,7 @@ export default {
       <img style={{ height: "45px" }} src="https://cdn.topiclist.xyz/images/png/TopicList5.png" />
       <strong>
         <span className="text-gray-600 font-normal hidden md:inline">
-          topiclist
+          TopicList!
         </span>
       </strong>
     </>
