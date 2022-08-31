@@ -10,4 +10,4 @@ Topic Docs
 written in nextjs
 
 
-<img src="https://skillicons.dev/icons?i=NextJS&theme=dark" />
+<img src="https://skillicons.dev/icons?i=next&theme=dark" />
