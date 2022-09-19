@@ -1,5 +1,9 @@
 import Callout from 'nextra-theme-docs/callout'
-# Bots
+
+
+
+
+
 ## Get Bot
 Route: `/bot/<bot_id>` <Badge type='tip' text='GET' vertical='middle'/>
 
