@@ -1,4 +1,4 @@
-# influx-docs
+# Topic-docs
 
 This is a Next.js application generated with
 [Create Next Docs](https://github.com/fuma-nama/next-docs).
