@@ -7,9 +7,8 @@ Topic Docs
 # topic-nextjs-docs
  
 
-written in nextjs
+written in
 
 
 <img src="https://skillicons.dev/icons?i=next&theme=dark" />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/88a26330-5153-4db4-98ac-b81968a9bebc/deploy-status)](https://app.netlify.com/sites/topic-docs/deploys)

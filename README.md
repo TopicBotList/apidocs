@@ -1,26 +1,15 @@
-# Topic-docs
+<h2 align='center'>
+  <img src="https://cdn.topiclist.xyz/images/png/TopicList5.png" height='100px' width='100px' />
+  <br> 
+Topic Docs
+</h2>
 
-This is a Next.js application generated with
-[Create Next Docs](https://github.com/fuma-nama/next-docs).
+# topic-nextjs-docs
+ 
 
 Run development server:
+written in
 
-```bash
-npm run dev
-# or
-pnpm dev
-# or
-yarn dev
-```
 
-Open http://localhost:3000 with your browser to see the result.
+<img src="https://skillicons.dev/icons?i=next&theme=dark" />
 
-## Learn More
-
-To learn more about Next.js and Next Docs, take a look at the following
-resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
-  features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Next Docs](https://next-docs-zeta.vercel.app) - learn about Next Docs
